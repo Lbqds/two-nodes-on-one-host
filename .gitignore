@@ -1,0 +1,3 @@
+*.jar
+network-*/
+logs/
